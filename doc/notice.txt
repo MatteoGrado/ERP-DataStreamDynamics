@@ -1,0 +1,11 @@
+Wenn man use verwendet kann man hinter den Pfad ein "as" schreiben, dass
+ermöglicht einen Alias für die use funktion zzu vergen. Somit kann man nicht
+nur mehr mit z. B. UserAuthController ein neues Objekt erstellen sondern auch
+Wenn man einfach nur z. B. abc hinschreiben würde.
+ABC sollte man allerdings nicht verwneden!
+
+
+Autoloader anstatt einzelne includes zu schreiben!
+
+Package erstellen um die häufigst verwendeten sachen zu speichern und später als Package wiederverwenden.
+
